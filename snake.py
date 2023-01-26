@@ -1,5 +1,3 @@
-#Projeto jogo da cobrinha: @eduardo_coltro
-
 import pygame
 from pygame.locals import *
 import random
